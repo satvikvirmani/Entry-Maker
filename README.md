@@ -8,14 +8,23 @@ On Linux **Open main.py**
 How it works?
 
 1. Add a student
+
 ![Screenshot1](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot01_lF8XJeOEy.png)
+
 2. Enter the details
+
 ![Screenshot2](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot02_LreP8E-uxU.png)
+
 ![Screenshot3](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot03_4dwffWsaL6.png)
+
 *(NOTE: Write down your password anywhere)*
+
 3. Check Details
+
 ![Screenshot4](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot04_JZQclqix-H.png)
+
 4.There you go.
+
 ![Screenshot5](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot05_m6ZgCACeCL.png)
 
 **Feel free to show and share the code
@@ -32,3 +41,4 @@ For other:
 [Facebook](https://www.facebook.com/satvik.virmani.9)
 [Instagram](https://www.instagram.com/satvik_virmani/)
 [Twitter](https://twitter.com/SatvikVirmani?fbclid=IwAR3i2uPR8rlZVjX1UHU9I_33SY2xgmbcJYebk16EKj58GQwjYzc_Nhe9fAc)
+[Medium](https://medium.com/@satvikvirmani)
