@@ -101,7 +101,7 @@ def verify_dialog():
             root.destroy()
         
 def open_about():
-	webbrowser.open('https://www.python.org')
+	webbrowser.open('https://github.com/SatvikVirmani/Entry-Maker')
 #Declare Window
 
 root = Tk()
