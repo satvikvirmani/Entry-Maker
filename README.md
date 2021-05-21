@@ -26,19 +26,3 @@ How it works?
 4.There you go.
 
 ![Screenshot5](https://ik.imagekit.io/garimaworks999/Github/Entry_Maker/Screenshot05_m6ZgCACeCL.png)
-
-**Feel free to show and share the code
-But don't forget to attribute**
-
-*How to  attribute*
-
-For websites:
-> Copy **<a href="https://www.instagram.com/satvik_virmani/">Design by Satvik Virmani</a>**
-
-For other:
-> Add **Design by Satvik Virmani**
-
-[Facebook](https://www.facebook.com/satvik.virmani.9)
-[Instagram](https://www.instagram.com/satvik_virmani/)
-[Twitter](https://twitter.com/SatvikVirmani?fbclid=IwAR3i2uPR8rlZVjX1UHU9I_33SY2xgmbcJYebk16EKj58GQwjYzc_Nhe9fAc)
-[Medium](https://medium.com/@satvikvirmani)
